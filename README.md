@@ -11,4 +11,4 @@ Ce projet vise à effectuer une optimisation globale du site web, tant en termes
 
 
 
-[Le lien vers la page GitHub du projet](https://hiro502.github.io/projet-9-Nina-carducci/)
+[Le lien vers la page GitHub du projet](https://hiro502.github.io/Openclasseroom_Project_9/)
